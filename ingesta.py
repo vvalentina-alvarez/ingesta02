@@ -10,7 +10,7 @@ database_name = "bd_api_employees"
 tabla = "employees"
 
 ficheroUpload = "data.csv"
-nombreBucket = "gcr-output-01"
+nombreBucket = "vab-output-01"
 
 
 mydb = mysql.connector.connect(host=host_name, port=port_number, user=user_name,
